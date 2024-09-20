@@ -1,11 +1,8 @@
-# *CallumMcD28.io*
 
+# Projects
 
+## Raspberry Pi Projects
 
+## Web Development Projects
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-
-[Contribution guidelines for this project](docs/HOME.md)
+## Software Development Projects
