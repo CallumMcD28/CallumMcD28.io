@@ -9,4 +9,4 @@
 
 # Photography
 
-[Click here to be redirected to the photography homepage](CallumMcD28.io/photography.md)
+[Click here to be redirected to the photography homepage](main/photography.md)
